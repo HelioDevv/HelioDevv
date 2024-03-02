@@ -11,7 +11,7 @@
 ### Tecnologias: 
 Java
 <br/>
-Python
+JDBC
 <br/>
 SQL
 <br/>
