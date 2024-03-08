@@ -11,7 +11,13 @@
 ### Tecnologias: 
 Java
 <br/>
-JDBC
+JPA
+<br/>
+Hibernate
+<br/>
+Maven
+<br/>
+Postman
 <br/>
 SQL
 <br/>
