@@ -2,7 +2,7 @@
 
 ### Olá! Eu sou o Hélio Junior 🙏🏽👏🏽🎉🎊
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%A9lio-augusto-nunes-junior-2104b8224/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helio-augusto-nunes-junior-2104b8224/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/helionunes_01/)
 
