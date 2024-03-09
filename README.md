@@ -28,4 +28,4 @@ Linux
 ## Um pouco sobre mim: 
 Formado em Análise e desenvolvimento de sistemas, pela Univerdade Uninassau Rio de Janeiro - RJ. <br/>
 ## A little about myself:
-Graduated in Systems Analysis and Development, from Univerdade Uninassau Rio de Janeiro - RJ. <br/>
+Graduated in Systems Analysis and Development, from University Uninassau Rio de Janeiro - RJ. <br/>
