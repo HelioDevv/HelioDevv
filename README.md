@@ -11,7 +11,7 @@
 ### Tecnologias: 
 Java
 <br/>
-SpringBoot
+Spring
 <br/>
 JPA
 <br/>
