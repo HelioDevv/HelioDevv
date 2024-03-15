@@ -27,7 +27,26 @@ SQL
 <br/>
 Linux
 
-## Um pouco sobre mim: 
+## I had an incredible discovery... I discovered that I love technology!
+
+### Technologies: 
+Java
+<br/>
+Spring
+<br/>
+JPA
+<br/>
+Hibernate
+<br/>
+Maven
+<br/>
+Postman
+<br/>
+SQL
+<br/>
+Linux
+
+## Formação acadêmica: 
 Formado em Análise e desenvolvimento de sistemas, pela Univerdade Uninassau Rio de Janeiro - RJ. <br/>
-## A little about myself:
+## Graduation:
 Graduated in Systems Analysis and Development, from University Uninassau Rio de Janeiro - RJ. <br/>
