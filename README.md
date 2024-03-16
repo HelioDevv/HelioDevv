@@ -11,40 +11,32 @@
 ## Tive uma descoberta incrível... Descobri que amo tecnologia!
 
 ### Tecnologias: 
-Java
-<br/>
-Spring
-<br/>
-JPA
-<br/>
-Hibernate
-<br/>
-Maven
-<br/>
-Postman
-<br/>
-SQL
-<br/>
-Linux
+* Java
+* Spring
+* JPA
+* Hibernate
+* Maven
+* Postman
+* SQL
+* PostgreSQL
+* MongoDB | NoSQL
+* Linux
+* Git
 
 ## I had an incredible discovery... I discovered that I love technology!
 
 ### Technologies: 
-Java
-<br/>
-Spring
-<br/>
-JPA
-<br/>
-Hibernate
-<br/>
-Maven
-<br/>
-Postman
-<br/>
-SQL
-<br/>
-Linux
+* Java
+* Spring
+* JPA
+* Hibernate
+* Maven
+* Postman
+* SQL
+* PostgreSQL
+* MongoDB | NoSQL
+* Linux
+* Git
 
 ## Formação acadêmica: 
 Formado em Análise e desenvolvimento de sistemas, pela Univerdade Uninassau Rio de Janeiro - RJ. <br/>
